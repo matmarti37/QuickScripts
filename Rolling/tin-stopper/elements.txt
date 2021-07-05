@@ -1,0 +1,7 @@
+# ELEMENT	DENSITY
+Cu		8.95
+Au		19.30
+Ag		10.49
+Ta		16.60
+Pb		10.678
+Sn		7.31

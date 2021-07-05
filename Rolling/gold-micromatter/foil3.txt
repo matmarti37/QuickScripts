@@ -1,0 +1,12 @@
+# Input lengths in mm
+# Input masses in g
+
+A		34.0
+B		35.2
+C		34.2
+D		35.3
+E		49.1
+
+M		59.65e-3
+
+ELE		Au
